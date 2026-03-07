@@ -35,7 +35,11 @@
 - Visually appealing static site following professional design briefs.
 - (Live demos -
 - vercel: https://vercel.com/tony34xs-projects
+- Triple Peaks Library: https://project-1-stage-3.vercel.app
+- Personal Portfolio Landing Page: https://project-2-sandy-beta.vercel.app
 - netlify: https://app.netlify.com/teams/tony34x/projects)
+-  Coffeeshop Landing Page:(https://coffeeshoplandingpage3.netlify.app)
+-  User Profile Manager: https://userprofilemanager2.netlify.app
 - ## Let's Connect
 - LinkedIn: www.linkedin.com/in/jermiah-booker
 - Email: bookerjermiah8@gmail.com
