@@ -35,7 +35,7 @@
 - Visually appealing static site following professional design briefs.
 - (Live demos -
 - vercel: https://vercel.com/tony34xs-projects
-- netlify: https://app.netlify.com/teams/tony34x/projects
+- netlify: https://app.netlify.com/teams/tony34x/projects)
 - ## Let's Connect
 - LinkedIn: www.linkedin.com/in/jermiah-booker
 - Email: bookerjermiah8@gmail.com
