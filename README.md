@@ -33,7 +33,7 @@
 - Responsive webpage built to design specifications with semantic HTML and CSS.
 - **[Coffeeshop Landing Page](https://github.com/tony34x/se_project_coffeeshop)**
 - Visually appealing static site following professional design briefs.
-- (Live demos available soon via Vercel/Netlify – check repositories for updates.)
+- (Live demos -
 - vercel: https://vercel.com/tony34xs-projects
 - netlify: https://app.netlify.com/teams/tony34x/projects
 - ## Let's Connect
