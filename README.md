@@ -134,8 +134,3 @@ Visually appealing static site following professional design briefs.
   </a>
 </p>
 
----
-
-````
-
----
