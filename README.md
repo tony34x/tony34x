@@ -63,6 +63,13 @@ Visually appealing static site following professional design briefs.
 **Repo:** https://github.com/tony34x/se_project_coffeeshop  
 **Live Demo:** https://coffeeshoplandingpage3.netlify.app  
 
+
+### **🔹 Coffeeshop Landing Page**  
+Visually appealing static site following professional design briefs.  
+**Repo:** https://github.com/tony34x/se_project_coffeeshop  
+**Live Demo:** https://coffeeshoplandingpage3.netlify.app  
+
+
 ---
 
 ### 🌐 Additional Hosting  
