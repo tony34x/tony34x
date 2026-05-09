@@ -64,7 +64,7 @@ Visually appealing static site following professional design briefs.
 **Live Demo:** https://coffeeshoplandingpage3.netlify.app  
 
 
-### **🔹 Project Spot **  
+### **🔹The Simple ToDo App **  
 Visually appealing static site following professional design briefs.  
 **Repo:** https://github.com/tony34x/se_project_coffeeshop  
 **Live Demo:** https://coffeeshoplandingpage3.netlify.app  
