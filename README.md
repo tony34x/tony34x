@@ -66,7 +66,7 @@ Visually appealing static site following professional design briefs.
 
 ### 🔹The Simple ToDo App 
 Visually appealing static site following professional design briefs.  
-**Repo:** https://github.com/tony34x/se_project_spots
+**Repo:** (https://github.com/tony34x/project_spots)
 **Live Demo:** https://userprofilemanager2.netlify.app   
 
 
