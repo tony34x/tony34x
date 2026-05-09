@@ -67,7 +67,7 @@ Visually appealing static site following professional design briefs.
 ### **🔹The Simple ToDo App **  
 Visually appealing static site following professional design briefs.  
 **Repo:** https://github.com/tony34x/se_project_coffeeshop  
-**Live Demo:** https://coffeeshoplandingpage3.netlify.app  
+**Live Demo:** https://userprofilemanager2.netlify.app   
 
 
 ---
