@@ -22,7 +22,7 @@
 ## 🌐 My Portfolio Website
 **Check out my full portfolio:**
 
-**→ [Jermiah Booker — Portfolio]([https://your-portfolio-url.com](https://jermiah-booker-portfolio-website.vercel.app/))**
+**→ (https://jermiah-booker-portfolio-website.vercel.app/)**
 
 *A modern, responsive showcase of my work, skills, and experience as a Frontend UI Engineer.*
 
