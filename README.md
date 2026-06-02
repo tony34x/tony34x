@@ -52,16 +52,3 @@ Interactive JavaScript application for creating, tracking, and completing tasks 
 
 
 ---
-
-## 🛠️ Languages & Tools
-*(your tools section remains the same)*
-
----
-
-## 📊 GitHub Stats & Trophies
-*(your stats section remains the same)*
-
----
-
-## 🔗 Connect with Me
-*(your contact section remains the same)*
