@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Jermiah Booker</h1>
+<h1 align="center">Hey 👋 I'm Jermiah Booker</h1>
 <h3 align="center">Frontend UI Engineer</h3>
 
 <p align="center">
@@ -12,43 +12,52 @@
 ---
 
 ## 👋 About Me
-- Frontend UI Engineer focused on building fast, intuitive, and responsive web interfaces
+
+- **Frontend UI Engineer** focused on building fast, intuitive, and responsive web interfaces
 - Based in Minnesota • Open to remote opportunities
-- Passionate about clean UI, smooth interactions, and production‑ready code
-- Currently expanding into **React, TypeScript, Node.js, and full‑stack workflows**
+- Passionate about clean UI, smooth interactions, and production-ready code
+- Currently expanding into **React, TypeScript, Node.js, and full-stack** development
 
 ---
 
 ## 🌐 My Portfolio Website
+
 **Check out my full portfolio:**
 
-**→ (https://jermiah-booker-portfolio-website.vercel.app/)**
+→ **[Jermiah Booker Portfolio](https://jermiah-booker-portfolio-website.vercel.app/)**
 
 *A modern, responsive showcase of my work, skills, and experience as a Frontend UI Engineer.*
 
 ---
 
 ## 🧠 Focus Areas
-- Building responsive, accessible, user‑focused interfaces
+
+- Building responsive, accessible, user-focused interfaces
 - Creating interactive experiences with JavaScript & React
 - Integrating APIs and handling async data flows
 - Writing clean, maintainable, scalable code
-- Delivering production‑style front‑end applications
+- Delivering production-style front-end applications
 
 ---
 
 ## 🚀 Featured Projects
-### **🔹 User Profile Manager**
+
+### 🔹 User Profile Manager
 Modern interface for viewing and editing user profiles with dynamic updates and responsive UI.
 
-**Repo:** https://github.com/tony34x/se_project_spots  
-**Live Demo:** https://userprofilemanager2.netlify.app
+**Repo:** [se_project_spots](https://github.com/tony34x/se_project_spots)  
+**Live Demo:** [View Live](https://userprofilemanager2.netlify.app)
 
-### **🔹 Task Manager (Todo App)**
+### 🔹 Task Manager (Todo App)
 Interactive JavaScript application for creating, tracking, and completing tasks with local persistence.
 
-**Repo:** https://github.com/tony34x/se_project_todo-app
+**Repo:** [se_project_todo-app](https://github.com/tony34x/se_project_todo-app)
 
-
+*(You can add more projects here...)*
 
 ---
+
+## 🔗 Connect with Me
+
+- **LinkedIn**: [Jermiah Booker](https://www.linkedin.com/in/jermiah-booker)
+- **Email**: [bookerjermiah8@gmail.com](mailto:bookerjermiah8@gmail.com)
