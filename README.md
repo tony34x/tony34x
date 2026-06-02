@@ -49,7 +49,7 @@ Interactive JavaScript application for creating, tracking, and completing tasks 
 
 **Repo:** https://github.com/tony34x/se_project_todo-app
 
-*(and the rest of your projects...)*
+
 
 ---
 
